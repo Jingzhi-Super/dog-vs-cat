@@ -1,6 +1,7 @@
 # dog-vs-cat
 Kaggle competition, https://www.kaggle.com/c/iminit-2017
-Image classification using keras
+
+Image classification with CNN using keras.
 
 Two parts:
 1. image: image preprocessing. Divide training set into 4 parts due to computation limits.
